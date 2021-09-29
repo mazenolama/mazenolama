@@ -4,6 +4,8 @@ I'm **Mazen**
 
 - 🔭 I’m currently working on Invoices System
 - 🌱 I’m currently learning AWS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?mazenolama&theme=radical)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
