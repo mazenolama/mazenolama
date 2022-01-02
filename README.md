@@ -1,7 +1,10 @@
-### Hi there 👋
-I'm **Mazen**
+### Hi there 👋 I'm **Mazen Olama**
+
+
 - 🔭 I’m currently working on BMS project, wish me luck 😄                        
-                                                                                    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
                                       
 
 <!--
