@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm **Mazen**
 
+                                                                                                    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
+- 🔭 I’m currently working on BMS project, wish me luck 😄                                          
 
-- 🔭 I’m currently working on BMS project, wish me luck 😄
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
