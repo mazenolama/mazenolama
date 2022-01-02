@@ -2,8 +2,7 @@
 I'm **Mazen**
 
 
-- 🔭 I’m currently working on Invoices System
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on BMS project, wish me luck 😄
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
 <!--
