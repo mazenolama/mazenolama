@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm **Mazen Olama**
 
 
-- 🔭 I’m currently working on Records System project, wish me luck 😄                        
+- 🔭 I’m currently working on Local-QM, After Call Survey projects, wish me luck 😄                        
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenolama&theme=radical)
                                       
