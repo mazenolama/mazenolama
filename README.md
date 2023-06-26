@@ -1,1 +1,1 @@
-### Hi there 👋 I'm **Mazen Olama** **Software Engineer** 
+### Hi there, I'm **Mazen Olama** **Software Engineer** 
